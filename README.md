@@ -12,6 +12,9 @@
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/99b0910ba1b54fcb22189c2cf07062c903bb85de/Screenshot%202026-06-10%20103632.png)
 
+
+  ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/3bb68fbbf8ab714db77c54588723c32de73ea1ad/Screenshot%202026-06-10%20124203.png)
+
    
 # I feel no pain, can you say the same? .
 
