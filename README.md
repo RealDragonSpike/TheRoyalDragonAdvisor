@@ -21,7 +21,7 @@
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/e85d326bab58e4a13c01c99efeb2079d75c32aad/Screenshot%202026-06-10%20171649.png)
 
-   
+   <img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/462a448a-d0da-450a-a3d1-bbd23ecff4c5" />
 
  
 
