@@ -22,7 +22,6 @@
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/e85d326bab58e4a13c01c99efeb2079d75c32aad/Screenshot%202026-06-10%20171649.png)
 
 
+<img width="184" height="276" alt="Image" src="https://github.com/user-attachments/assets/954cfea1-9397-4a61-b725-dcde6b5b9105" /> <img width="240" height="244" alt="Image" src="https://github.com/user-attachments/assets/e1383ea4-65d9-4510-bfef-e5ebebd59f25" /> <img width="248" height="240" alt="Image" src="https://github.com/user-attachments/assets/b1cc8113-58e4-4e3d-b8e1-63005d0f1df2" /> <img width="248" height="224" alt="Image" src="https://github.com/user-attachments/assets/7a4fe469-df53-40a3-8ae9-bdd4ce0de05a" />
 
-<img width="184" height="276" alt="Image" src="https://github.com/user-attachments/assets/bf1b1a4b-7798-4853-8594-c7dd8bf271a7" /><img width="184" height="276" alt="Image" src="https://github.com/user-attachments/assets/bf1b1a4b-7798-4853-8594-c7dd8bf271a7" /><img width="248" height="240" alt="Image" src="https://github.com/user-attachments/assets/0a829084-2c2f-4334-b11e-57ab36cd20bf" /><img width="248" height="224" alt="Image" src="https://github.com/user-attachments/assets/f326e610-2bab-4372-ba7b-a19278ae480e" />
 
-  
