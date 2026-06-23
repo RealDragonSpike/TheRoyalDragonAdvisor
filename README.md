@@ -1,7 +1,6 @@
+## Making a new read.me :P
 
 
-
-<small><b>"The Dragon King"</b></small>
 
 
 
