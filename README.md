@@ -63,13 +63,16 @@
    </div>
    </details>
 
+   </div>
+   </details>
+
    
  <br>
  
+ 
  <details>
 
-</div>
-   </details>
+
     
  <summary><inst>How to be friends with me?</inst></summary>
     
