@@ -180,7 +180,7 @@
 
 
 
-## Not Able To Read  or Respone Your Message. If You keep spam whisper.
+## Not Able To Read  or Respone Your Message. If You keep on spam whisper.
 
 
 <img width="220" height="227" alt="Image" src="https://github.com/user-attachments/assets/ce2041ac-2087-4e3f-a7d8-dca8c74778c7" />
@@ -222,7 +222,11 @@
 
 
  <br> 
+
+ 
 ## Doing my homework or at School.
+
+
 
 <img width="220" height="228" alt="Image" src="https://github.com/user-attachments/assets/635601f9-8858-4be3-8428-b1fb3b36754c" />
 
