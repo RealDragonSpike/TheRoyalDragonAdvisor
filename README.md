@@ -23,6 +23,7 @@
 <div align="center">
  <p>Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
  <p>Nicknames: Spike, Spine and Spire.</p>
+ <p>Might disconnect whenever im afk or semi-afk.
  <p>I only speak English and Filipino—sometimes a little.</p>
  <p>Nonshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
  <p>I avoid blocking either toxicity or harassment.</p>
