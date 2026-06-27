@@ -1,4 +1,4 @@
-<p align="center"> ꧁༒                                                                                                               ༒꧂
+<p align="center">                                                                                                         
  ꧁༒<img width="224" height="123" alt="Image" src="https://github.com/user-attachments/assets/c2968f53-fa37-4064-9f3e-df6d3c008157" />༒꧂
 </p>
 
@@ -27,7 +27,7 @@
  <p>I only speak English and Filipino—sometimes a little.</p>
  <p>Nonshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
  <p>I avoid blocking either toxicity or harassment.</p>
- <p></p>Was born in the Philippines.</p></p>
+ <p>Was born in the Philippines.</p>
  <p>I usually like shipping Rarity and Spike, but in-game, I usually don't.</p>
  <p>Twilight is my friend; I always support her, and I always have her back.</p>
  <p>I will block you if you start harassing my friends.</p>
@@ -164,7 +164,7 @@
    <details>
    <summary><int>ᴀɴɪᴍᴀʟs ɪ ʟɪᴋᴇ ᴀʀᴇ...</int></summary>
 
-   <p>Dinosaurs: T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, and Spiders.</p>
+   <p>Dinosaurs: T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, Bears, Pandas (Red Pandas as well) Dragons, and Spiders.</p>
       </div>
 </details>
 
