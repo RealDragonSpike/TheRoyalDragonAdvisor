@@ -118,6 +118,16 @@
 </details>
 <br>
 
+<details>
+   <summary><inst>Questions - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</inst></summary>
+     
+ <div align="center">
+   <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
+   <p>I'd rather avoid sex or shippers whenever I'm AFK or semi-AFK.</p>
+   <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
+ </div>
+</details>
+<br>
       
 ## 👀INTERESTS👀
 <div align="center">
@@ -139,13 +149,7 @@
 
  <br>
 
-  <details>
-   <summary><inst>Questions - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</inst></summary>
-     
- <div align="center">
-   <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
-   <p>I'd rather avoid sex or shippers whenever I'm AFK or semi-AFK.</p>
-   <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
+ 
  </div>
 </details>
 
