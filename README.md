@@ -90,10 +90,29 @@
     </div>
 </details>
 <br>
+
+  <details>
+   <summary><inst>⚠️Warning/Caution⚠️</inst></summary>
+     
 <p align="center">
+   <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
+   <p>Might think you're cool and awesome.</p>
+   <p>I sleep peacefully, draw peacefully, play peacefully, and listen to music peacefully. But sometimes people might disturb or interrupt me for no reason.</p>
+   <p>My brain might feel fuzzy, meaning I feel tired.</p>
+   <p>Don't copy either cover my Spike cosplay whenever I'm AFK or semi-AFK.</p>
+   <p>Might be aggressive or get snappy if you bully or roast random people sitting or cuddling with me.</p>
+   <p>Feeling tired about my schoolwork and stuff.</p>
+   <p>If you're trying to flex on me with your peak skins when I'm active, I really don't care.</p>
+   <p>Don't be rude to random people whenever they are sitting or cuddling with me.</p>
+   <p>Be kind to my friends and random people.</p>
+   <p>I'll make up my mind if you're cool, awesome, good, or bad.</p>
+   <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends.</p>
+   </div>
+</details>
+<br>
+
       
 ## 👀INTERESTS👀
-<p align="center">
    <details>
     <summary><inst>Favourite Colors and Hobbies.</inst></summary>
       
