@@ -57,7 +57,7 @@
 <br>
 
   <details>
- <summary><ins>⚠️ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅ⚠️</ins></summary>
+ <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅ❗</ins></summary>
      
 <div align="center">   
  <p>Under 12 years old, I will not accept being friends with anyone under 12 years old.</p>
@@ -76,7 +76,7 @@
  
  <details>
    
-  <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ?</inst></summary>
+  <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
@@ -113,7 +113,7 @@
 
 
 <details>
- <summary><inst>Location</inst></summary>
+ <summary><inst>ʟᴏᴄᴀᴛɪᴏɴ</inst></summary>
  <div align="center">
    <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
    </div>
