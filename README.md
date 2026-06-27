@@ -31,6 +31,7 @@
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
  </div>
 </details>
+    
 <br>
   
 
@@ -49,9 +50,9 @@
  <p>I will not respond to a spam whisper.</p>
  <p>Always active, I won't disconnect the game whenever I'm AFK or semi-AFK.</p>
  <p>I don't assume that much; I'll allow you to wear Twilight if you want my attention.</p>
-  </div>
- </details>
- <br>
+ </div>
+</details>
+<br>
 
   <details>
  <summary><ins>⚠️Do not Befriend with me.⚠️</ins></summary>
@@ -66,11 +67,10 @@
  <p>If you're willing to be my friend, you have to chat calmly.</p>
  <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
  <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
-    </div>
-   </details>
-   <br>
+  </div>
+</details>
+<br>
 
-   
    
    <details>
     <summary><inst>Favourite Colors and Hobbies.</inst></summary>
@@ -82,8 +82,9 @@
     <p>I do not like getting disturbed whenever I'm watching and playing.</p>
     <p>You are free to whisper to me when I'm listening to music or drawing.</p>
     </div>
-   </details>
-   <br>
+</details>
+<br>
+
  
  
  <details>
@@ -99,9 +100,10 @@
    <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
    <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you.</p>
    <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more.</p>
-     </div>
-   </details>
-   <br> 
+    </div>
+</details>
+<br>
+
 
 
    </div>
@@ -128,8 +130,8 @@
    <p>I'll make up my mind if you're cool, awesome, good, or bad.</p>
    <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends.</p>
    </div>
- </details>
-  <br>
+</details>
+<br>
 
 
 
@@ -140,9 +142,9 @@
    <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
    <p>I'd rather avoid sex or shippers whenever I'm AFK or semi-AFK.</p>
    <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
- </div>
- </details>
- <br>
+  </div>
+</details>
+<br>
 
    <details>
   <summary><inst>Games i usually like</inst></summary>
