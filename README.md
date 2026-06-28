@@ -126,7 +126,7 @@
 <br>
 
 <details>
-   <summary><ins>ǫᴜᴇsᴛɪᴏɴ - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</ins></summary>
+   <summary><ins>ǫᴜᴇsᴛɪᴏɴ - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔:</ins></summary>
      
  <div align="center">
    <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
@@ -140,7 +140,7 @@
 
 <div align="center">
    <details>
-    <summary><ins>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ᴏᴛʜᴇʀ ʜᴏʙʙɪᴇs.</ins></summary>
+    <summary><ins>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ᴏᴛʜᴇʀ ʜᴏʙʙɪᴇs.:</ins></summary>
    <div align="center">
     <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
     <p>I like watching animals, guns, and dragons.</p>
@@ -157,7 +157,7 @@
  <br>
 
    <details>
-  <summary><ins>ɢᴀᴍᴇs ɪ ᴜsᴜᴀʟʟʏ ʟɪᴋᴇ ᴀʀᴇ...</ins></summary>
+  <summary><ins>ɢᴀᴍᴇs ɪ ᴜsᴜᴀʟʟʏ ʟɪᴋᴇ ᴀʀᴇ...:</ins></summary>
       
 <div align="center">
   <p>I played a lot of games; it's kind of hard to remember.</p>
