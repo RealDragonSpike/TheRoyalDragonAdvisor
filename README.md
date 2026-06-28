@@ -44,7 +44,7 @@
 
 </p>
 
-<div align="center">
+<details>
   <summary><ins>|ᴘᴏɴʏ ᴛᴏᴡɴ|:</ins></summary>
    
 <div align="center">
