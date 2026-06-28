@@ -19,7 +19,7 @@
  </p>
  <br>
 
-## |About Me|!
+## |About Me!|
 <details>
    <summary><ins>|ᴍʏsᴇʟғ|:</ins></summary>
   
@@ -65,7 +65,7 @@
 </details>
 <br>
 
-## CAUTION REMINDER!
+## [CAUTION REMINDER!]
   <details>
  <summary><ins>|❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅᴇᴅ ᴍᴇ.❗|:</ins></summary>
      
@@ -103,6 +103,7 @@
 </details>
 <br>
 
+## |CLUES|
 
 <details>
 <summary><ins>|ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔|:</ins></summary>
@@ -121,6 +122,7 @@
 </details>
 <br>
 
+## |To find me? Or where am I at?|
 
 <details>
  <summary><ins>|❔ʟᴏᴄᴀᴛɪᴏɴ❔|:</ins></summary>
@@ -131,10 +133,10 @@
 </details>
 <br>
 
-
+## |QUESTIONS|
 
 <details>
-   <summary><ins>|ǫᴜᴇsᴛɪᴏɴ| - |ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔|:</ins></summary>
+   <summary><ins>|ǫᴜᴇsᴛɪᴏɴ 1| - |ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔|:</ins></summary>
      
  <div align="center">
    <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
@@ -143,6 +145,8 @@
  </div>
 </details>
 <br>
+
+## CHECKOUT MY INTERESTS!
 
 <div align="center">
    <details>
