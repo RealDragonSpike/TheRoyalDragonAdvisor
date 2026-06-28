@@ -42,10 +42,10 @@
 </p>
 
 <details>
-  <summary><ins>ᴀʙᴏᴜᴛ ᴘᴏɴʏ ᴛᴏᴡɴ</ins></summary>
+  <summary><ins>ᴘᴏɴʏ ᴛᴏᴡɴ</ins></summary>
    
 <div align="center">
- <p>When I'm with people, I let them snuggle and pile on me. My Spike cosplay should not be covered or replicated. Doing that would be risky.</p>
+ <p>When I'm with people, I'll let them snuggle and pile on me. My Spike cosplay should not be covered or replicated. Doing that would be risky.</p>
  <p>I may be AFK or semi-AFK, but I may be online every year, well, sometimes.</p>
  <p>Free to W2I, there's a chance that I might see the messages.</p>
  <p>I do not want spam whispers when I'm AFK or semi-AFK.</p>
